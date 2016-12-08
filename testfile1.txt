@@ -1,1 +1,2 @@
 To jest plik 1
+A to jest zmiana w pliku
