@@ -11,5 +11,9 @@ def multiply(x, y):
 def add(x,y)
 	return x+y
 
+def print_table(table):
+	print(table)
+
 if __name__ == "__main__":
 	main()
+
