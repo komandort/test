@@ -22,3 +22,5 @@ if __name__ == "__main__":
 	main()
 
 #comment at end of file
+
+print("Commits are cool")
