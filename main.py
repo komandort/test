@@ -17,4 +17,10 @@ def print_table(table):
 if __name__ == "__main__":
 	main()
 
+def input_data(items):
+	input(item)
+
+#its comment about input
+
 #my comment
+
