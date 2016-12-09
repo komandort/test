@@ -17,3 +17,5 @@ def print_table(table):
 if __name__ == "__main__":
 	main()
 
+def input_data(items):
+	input(item)
