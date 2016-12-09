@@ -1,10 +1,9 @@
 #commented main file
 import sys
 import re
-print("Hello!")
-exit()
 
-
+def fucking_good(oyeah):
+	fuck.the.variable()
 
 def multiply(x, y):
 	return x*y
