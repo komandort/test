@@ -19,3 +19,5 @@ if __name__ == "__main__":
 
 def input_data(items):
 	input(item)
+
+#its comment about input
